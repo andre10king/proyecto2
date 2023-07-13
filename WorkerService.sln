@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService", "WorkerService\WorkerService.csproj", "{927EA90A-2344-45D1-980B-877C3A1780CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPWorker", "ASPWorker\ASPWorker.csproj", "{867E9D65-F48F-41F7-874C-A300D61127E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927EA90A-2344-45D1-980B-877C3A1780CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927EA90A-2344-45D1-980B-877C3A1780CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927EA90A-2344-45D1-980B-877C3A1780CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927EA90A-2344-45D1-980B-877C3A1780CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867E9D65-F48F-41F7-874C-A300D61127E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867E9D65-F48F-41F7-874C-A300D61127E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867E9D65-F48F-41F7-874C-A300D61127E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867E9D65-F48F-41F7-874C-A300D61127E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EE4BBFA-CE5F-4942-B7A2-3C4DDCDDCBDD}
+	EndGlobalSection
+EndGlobal
